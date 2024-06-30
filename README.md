@@ -4,3 +4,7 @@ Programming assignments and notes associated with the AM6016:Dynamic Machine Lea
 The work here serves a uesful reference for a detailed (re-)introduction to machine learning concepts and implementation, particularly related to deep learning neural networks. 
 
 All work is my own, unless otherwise stated.
+
+**Assignment 1:** Neural network for the MNIST dataset of handwritten digits
+
+**Assignment 2:** CNN and RNN implementation
